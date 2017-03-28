@@ -8,5 +8,6 @@ public class GitTest2 {
         System.out.println("Hello git2");
         System.out.println(1);
         System.out.println("modify feature");
+        System.out.println("test stash");
     }
 }
